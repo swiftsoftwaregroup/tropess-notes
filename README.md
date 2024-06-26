@@ -1,2 +1,2 @@
 # tropess-notes
-This repository has moved to https://github.com/swift-earth-science/tropess-notes  
+This repository is now hosted at https://github.com/swift-earth-science/tropess-notes  
